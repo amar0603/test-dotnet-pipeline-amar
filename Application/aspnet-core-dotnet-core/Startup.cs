@@ -14,6 +14,7 @@ namespace aspnet_core_dotnet_core
 {
     public class Startup
     {
+        //comment here also
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
